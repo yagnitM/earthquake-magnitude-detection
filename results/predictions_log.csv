@@ -1,0 +1,3 @@
+timestamp,latitude,longitude,depth,gap,rms,Linear_Regression_magnitude,Linear_Regression_risk,Ridge_Regression_magnitude,Ridge_Regression_risk,Lasso_Regression_magnitude,Lasso_Regression_risk,Random_Forest_magnitude,Random_Forest_risk,Gradient_Boosting_magnitude,Gradient_Boosting_risk,XGBoost_magnitude,XGBoost_risk,ensemble_magnitude,ensemble_std
+11/1/2025 23:11,40.7128,-74.006,5.5,35,0.25,1.469901573,Very Low,1.54897616,Very Low,1.843596786,Very Low,1.936654875,Very Low,2.227253654,Low,2.2840245,Low,1.885067921,0.307126262
+2025-11-02 00:08:22,48.2435,-91.21,5.5,35.0,0.55,1.2729066926291905,Very Low,1.3148633808033088,Very Low,1.9126529113750417,Very Low,2.1684796006911866,Low,2.380291563280136,Low,1.9305347,Very Low,1.8299548115332833,0.4102939303663871
